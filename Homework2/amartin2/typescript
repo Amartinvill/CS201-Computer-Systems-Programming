@@ -1,0 +1,41 @@
+Script started on Sat 24 Oct 2015 12:42:16 AM PDT
+amartin2@ada:~/CS201/Homework2/amartin2$ a[K/a[K[K./.a[K[Ka.out 11 4 33f
+Illigal number of fraction bits(11). Shound be between 2 and 10
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 11 4 33f[K[K[K[K[K[K[K[K4 8 1af
+Illigal number of exponent bits(8). Shound be between 3 and 5
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 4 8 1af[K[K[K[K[K[K 4 1af
+-15.500000
+
+amartin2@ada:~/CS201/Homework2/amartin2$ 44[K [K[K./a.out 4 4 1af[K[K[Kaf
+15.500000
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 4 4 af[K[K[K[K[K[K[K3 [K[K 3 3 03
+denormalinez number
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 03[K[K3c
+NaN
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 3c[K[K38
++inf
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 38[K[K78
+-inf
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 78[K[K26
+3.500000
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 26[K[K18
+1.000000
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 18[K[K3f
+NaN
+
+amartin2@ada:~/CS201/Homework2/amartin2$ ./a.out 3 3 3f[K[K37
+15.000000
+
+amartin2@ada:~/CS201/Homework2/amartin2$ exit
+exit
+
+Script done on Sat 24 Oct 2015 12:44:38 AM PDT

@@ -1,0 +1,21 @@
+Script started on Thu 08 Oct 2015 07:36:17 AM PDT
+amartin2@ada:~/CS201/Homework1$ make
+gcc -g speedgame.c
+amartin2@ada:~/CS201/Homework1$ ./a.out
+Type the following words:
+Word # 1 the:the
+Word # 2 brown:brown
+Word # 3 jumps:jumps
+Word # 4 lazy:lazy
+Word # 5 dog:cat
+Incorrect, try again
+Word # 5 dog:dog
+Word # 6 quick:quick
+Word # 7 over:over
+Word # 8 fox:fox
+Word # 9 The:THe  he
+Your total time was: 41 sec
+amartin2@ada:~/CS201/Homework1$ exit
+exit
+
+Script done on Thu 08 Oct 2015 07:37:49 AM PDT
